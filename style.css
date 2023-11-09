@@ -234,7 +234,7 @@ section:not(.hero) .text-content-group {
   gap: 1.5rem;
   min-height: 100vh;
   align-items: center;
-  background: url('Images/background.jpg') no-repeat;
+  background: url('Assets/background.jpg') no-repeat;
   background-size: cover;
   background-color: rgba(0, 0, 0, 0.1);
   background-position: center;
@@ -252,7 +252,7 @@ section:not(.hero) .text-content-group {
 }
 
 .home .content p {
-  font-size: 1.7rem;
+  font-size: 10px;
   color: var(--light-color);
   padding: 1rem 2rem;
 }
